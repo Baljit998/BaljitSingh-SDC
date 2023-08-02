@@ -11,7 +11,7 @@ Submitted in partial fulfillment of the requirement for the award of the degree 
 ## BACHELOR OF TECHNOLOGY
 ### (Computer Science and Engineering)
 
-![This is an alt text.](/images/logo.jpg"This is a sample image.")
+![This is an alt text.](/images/logo.jpg)
 **JUNE-JULY, 2023**
 
 ---
