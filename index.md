@@ -6,7 +6,7 @@ Welcome to my webpage! This is a simple example of using Markdown to create a we
 
 ## About Me
 
-![Profile Picture](path/to/profile-picture.jpg)
+![Profile Picture](Screenshot from 2023-08-01 13-36-16.png)
 
 I'm Baljit Singh, a web developer and tech enthusiast. I love working with new technologies and creating amazing web experiences.
 
